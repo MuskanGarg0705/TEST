@@ -1,6 +1,13 @@
+my friend is vanshika
+
+my home city is hisar
+
 my name is muskan
 
 my age is 15
+<<<<<<< Updated upstream
 
 my fav colour is blue
 
+=======
+>>>>>>> Stashed changes
